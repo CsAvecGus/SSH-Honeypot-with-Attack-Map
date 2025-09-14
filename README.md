@@ -1,1 +1,1 @@
-# Microsoft-Sentinel-SIEM-for-SSH-Honeypot
+# SSH Honeypot with Microsoft Sentinel (SIEM)
