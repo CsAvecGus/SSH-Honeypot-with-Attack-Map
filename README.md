@@ -28,8 +28,7 @@ Configuration of AWS EC2 Instance with AMI, Network and Security settings<br/>
 <br/>
 <br/>
 
-The EC2 instance is accessed via SSH with Kali, Cowrie is cloned from Github
-A virtual environment is created within the instance and Python package manager (pip) is updated
+The EC2 instance is accessed via SSH with Kali, Cowrie is cloned from Github; a virtual environment is created within the instance and Python package manager (pip) is updated
 <img width="774" height="281" src="https://github.com/user-attachments/assets/1e26d7a1-b040-47c0-a0a1-9d22d044571d" />
 <br/>
 <br/>
@@ -40,7 +39,7 @@ Cowrie is configured to listen on port 2222, allowing it to capture attempted SS
 <br/>
 
 The Honeypot service is successfully started within the instance and port 2222 is listening for traffic
-<img width="774" height="281" src="https://github.com/user-attachments/assets/c189f888-232c-41e1-9ecc-a364a5e3f9b6" />
+<img width="839" height="274" src="https://github.com/user-attachments/assets/e8980484-f369-4e2e-b016-d4f0a25c2030" />
 <br/>
 <br/>
 
